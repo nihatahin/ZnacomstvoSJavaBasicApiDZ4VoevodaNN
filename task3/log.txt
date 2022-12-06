@@ -1,0 +1,42 @@
+Dec 06, 2022 2:53:08 PM task3.task main
+INFO: 12.0 was entered as start operand.
+Dec 06, 2022 2:53:12 PM task3.task main
+INFO: + was entered as operator.
+Dec 06, 2022 2:53:13 PM task3.task main
+INFO: 12.0 was entered as operand.
+Dec 06, 2022 2:53:13 PM task3.task main
+INFO: 15.0 was calculated.
+Dec 06, 2022 2:53:15 PM task3.task main
+INFO: - was entered as operator.
+Dec 06, 2022 2:53:16 PM task3.task main
+INFO: 15.0 was entered as operand.
+Dec 06, 2022 2:53:16 PM task3.task main
+INFO: 10.0 was calculated.
+Dec 06, 2022 2:53:18 PM task3.task main
+INFO: + was entered as operator.
+Dec 06, 2022 2:53:19 PM task3.task main
+INFO: 10.0 was entered as operand.
+Dec 06, 2022 2:53:19 PM task3.task main
+INFO: 20.0 was calculated.
+Dec 06, 2022 2:53:30 PM task3.task main
+INFO: Cancel last action. Current meaning is10.0
+Dec 06, 2022 2:53:42 PM task3.task main
+INFO: + was entered as operator.
+Dec 06, 2022 2:53:43 PM task3.task main
+INFO: 10.0 was entered as operand.
+Dec 06, 2022 2:53:43 PM task3.task main
+INFO: 14.0 was calculated.
+Dec 06, 2022 2:53:48 PM task3.task main
+INFO: Cancel last action. Current meaning is10.0
+Dec 06, 2022 2:53:52 PM task3.task main
+INFO: Cancel last action. Current meaning is15.0
+Dec 06, 2022 2:54:01 PM task3.task main
+INFO: Cancel last action. Current meaning is12.0
+Dec 06, 2022 2:54:12 PM task3.task main
+WARNING: Invalid cancel. There is no value in the memory!
+Dec 06, 2022 2:54:22 PM task3.task main
+INFO: + was entered as operator.
+Dec 06, 2022 2:54:23 PM task3.task main
+INFO: 12.0 was entered as operand.
+Dec 06, 2022 2:54:23 PM task3.task main
+INFO: 24.0 was calculated.
